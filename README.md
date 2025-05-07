@@ -4,7 +4,7 @@ Submitted by: **Rawnak Ahmed**
 
 **IOS 101 Pre-Work** is an app that displays a personal bio of a student and features a button to change the background.
 
-Time spent: **2** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
